@@ -5,3 +5,8 @@ The problem of uppercases characters in the installation script has been solved 
 ---------------------------------------------19 / 04 / 2016----------------------------------------------------
 
 Removed Inguma from the menu to bypass issue with installation (By Jayson Grace : https://github.com/l50)
+
+---------------------------------------------02 / 11 / 2017----------------------------------------------------
+
+Removed w3af <zarrenspry@gmail.com>
+

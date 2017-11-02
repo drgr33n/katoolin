@@ -30,7 +30,7 @@ categories = {
 	['apache-users', 'arachni', 'bbqsql', 'blindelephant', 'burpsuite', 'cutycapt', 'davtest', 'deblaze', 
 	'dirb', 'dirbuster', 'fimap', 'funkload', 'gobuster', 'grabber', 'jboss-autopwn', 'joomscan', 'jsql',
 	'maltego-teeth', 'padbuster', 'paros', 'parsero', 'plecost', 'powerfuzzer', 'proxystrike', 'recon-ng',
-	'skipfish', 'sqlmap', 'sqlninja', 'sqlsus', 'ua-tester', 'uniscan', 'vega', 'w3af', 'webscarab',
+	'skipfish', 'sqlmap', 'sqlninja', 'sqlsus', 'ua-tester', 'uniscan', 'vega', 'webscarab',
 	'websploit', 'wfuzz', 'wpscan', 'xsser', 'zaproxy']
 	],
 
